@@ -8,9 +8,7 @@
 
 以下是 chapter_2::simple_challenge 模块的代码：
 
-move
-
-```text
+```move
 module chapter_2::simple_challenge {
     use sui::object::{Self, UID};
     use sui::transfer;
